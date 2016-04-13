@@ -1,2 +1,4 @@
 # Camp1
-my first repo on github
+
+My first repo sample on github
+
